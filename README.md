@@ -1,8 +1,8 @@
-# Docker Traefik
+# RabbitMQ Publish/Subscribe
 
-# Autor
-**Diego Alejandro Gil Otálora**  
-Código: 202222152  
+# Autores
+**Diego Alejandro Gil Otálora**<br>
+**Julian David Bocanegra Segura** <br>
 Universidad Pedagógica y Tecnológica de Colombia  
 Ingeniería de Sistemas y Computación - Sistemas Distribuidos  
 Tunja, 2025  
